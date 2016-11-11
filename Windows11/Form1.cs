@@ -26,5 +26,13 @@ namespace Windows11
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string message = "You cannot close this operation";
+            MessageBoxButtons buttons = MessageBoxButtons.OKCancel;
+
+            MessageBox.Show(message, " " , buttons);
+        }
     }
 }
