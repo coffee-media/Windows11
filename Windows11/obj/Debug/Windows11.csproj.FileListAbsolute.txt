@@ -1,1 +1,9 @@
 c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\bin\Debug\Windows11.exe.config
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\bin\Debug\Windows11.exe
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\bin\Debug\Windows11.pdb
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\obj\Debug\Windows11.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\obj\Debug\Windows11.Form1.resources
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\obj\Debug\Windows11.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\obj\Debug\Windows11.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\obj\Debug\Windows11.exe
+c:\users\owner\documents\visual studio 2015\Projects\Windows11\Windows11\obj\Debug\Windows11.pdb
