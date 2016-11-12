@@ -786,7 +786,7 @@
         XTesb3QPLh88M+QwdP6m681Lt7xuXbu94vbgcOjwnZHokdE77DtTd1PuvriXeW/h/sYH6AdFD6UeVjxS
         fNTws+7PbaOWo6fHXMf6Hwc/vj/OGn/2S8Yv7ycKnpCfVEyqTDZPmU2dmnafvvF05dOJZ+nPFmYKf5X+
         tfa5zvMffnP8rX82YnbiBf/Fp99LXsq/PPRq2aueuYC5R69TXy/MF72Rf3P4LeNt37vwd5MLWe+x7ys/
-        6H7o/ujz8cGn1E+f/gUDmPP8usTo0wAAAAlwSFlzAAALEQAACxEBf2RfkQAAIflJREFUeF7t3IuxLjuN
+        6H7o/ujz8cGn1E+f/gUDmPP8usTo0wAAAAlwSFlzAAALDwAACw8BkvkDpQAAIflJREFUeF7t3IuxLjuN
         hmFSIAVSIAVSIAVSIAVSIAVSIAVSIAVSOLM+plzl8UiypXZf96uqp4bj5b7abavd/57f/fbbbwAAANjI
         LAQAAECdWQgAAIA6sxAAAAB1ZiEAAADqzEIAAADUmYUAAACoMwsBAABQZxYCAACgziwEAABAnVkIAACA
         OrMQAAAAdWYhAAAA6sxCAAAA1JmFAAAAqDMLAQAAUGcWAgAAoM4sBAAAQJ1ZCAAAgDqzEAAAAHVmIQAA
@@ -1559,6 +1559,9 @@
         ARf/2Q==
 </value>
   </data>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>245, 20</value>
+  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAUAEBAAAAAAIABoBAAAVgAAACAgAAAAACAAqBAAAL4EAAAwMAAAAAAgAKglAABmFQAAQEAAAAAA
